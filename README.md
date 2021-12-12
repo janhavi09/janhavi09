@@ -6,11 +6,11 @@ tree.:octocat:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on - GSSOC
-- 🌱 I’m currently learning - python
-- 👯 I’m looking to collaborate on - talent script
-- 🤔 I’m looking for help with - abhishek naidu
-- 💬 Ask me about - c,python,html
+- 🔭 I’m currently working on - LGM and GSSOC
+- 🌱 I’m currently learning - C++
+- 👯 I’m looking to collaborate on - CRED
+- 🤔 I’m looking for help with - someone
+- 💬 Ask me about - c,python,html,css
 - 📫 How to reach me: linkedin 
 - 😄 Pronouns: BE POSITIVE
 - ⚡ Fun fact: lol
